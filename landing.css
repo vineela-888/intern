@@ -1,0 +1,78 @@
+.top-img{
+    background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52767.jpg?size=626&ext=jpg&ga=GA1.2.357720766.1674394181&semt=ais.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 380px;
+}
+.top-para{
+    color: whitesmoke;
+    margin-top: 35px;
+    font-size: 18px;
+    padding-left: 30px;
+}
+.top-icon{
+    width: 35px;
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.top-head{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 35px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.top-details{
+    margin-top: 45px;
+    text-align: center;
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.top-btn{
+    border-radius: 10px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: whitesmoke;
+}
+.top-main-head{
+    font-size: 40px;
+    margin-bottom: 17px;
+    font-weight: bold;
+}
+.top-main-para{
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+.sec-bg{
+    background-color: wheat;
+    width: 100vw;
+    height: 40vh;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    font-weight: bold;
+}
+.sec-para{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sec-img{
+    height: 300px;
+    width: 350px;
+    margin: 20px;
+}
+.sec-des{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    color: whitesmoke;
+}
+.las-bg{
+    background-color: rgb(44, 56, 69);
+    background-size: cover;
+    width: 100vw;
+}
